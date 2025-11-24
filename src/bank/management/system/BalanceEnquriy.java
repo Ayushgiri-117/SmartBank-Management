@@ -8,6 +8,7 @@ import java.sql.ResultSet;
 
 public class BalanceEnquriy extends JFrame implements ActionListener {
 
+    
     String pin;
     JLabel label2;
     JButton b1;
